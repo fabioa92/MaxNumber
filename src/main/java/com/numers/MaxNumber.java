@@ -13,9 +13,9 @@ public class MaxNumber {
 		boolean a = vett.valoreMaggiore(mioVettore, 0);
 
 		if (a)
-			System.out.println("presenza di numero più grande v3");
+			System.out.println("presenza di numero più grande v4");
 		else
-			System.out.println("nessun numero più grandeer v3");
+			System.out.println("nessun numero più grandeer v4");
 
 	}
 
