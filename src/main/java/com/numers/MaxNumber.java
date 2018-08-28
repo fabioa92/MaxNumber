@@ -13,7 +13,7 @@ public class MaxNumber {
 		boolean a = vett.valoreMaggiore(mioVettore, 0);
 
 		if (a)
-			System.out.println("presenza di numero più grande");
+			System.out.println("presenza di numero più grandeeee");
 		else
 			System.out.println("nessun numero più grande");
 
