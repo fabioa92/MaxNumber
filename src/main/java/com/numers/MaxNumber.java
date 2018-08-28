@@ -15,7 +15,7 @@ public class MaxNumber {
 		if (a)
 			System.out.println("presenza di numero più grande v3");
 		else
-			System.out.println("nessun numero più grande v3");
+			System.out.println("nessun numero più grandeer v3");
 
 	}
 
